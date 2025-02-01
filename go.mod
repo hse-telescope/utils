@@ -1,4 +1,4 @@
-module github.com/hse-telesope/utils
+module github.com/hse-telescope/utils
 
 go 1.23.0
 
